@@ -40,6 +40,7 @@
 
 ![Nerve Gotique.jpg](/img/user/_Attachments/ARCHITECTURE/%E5%93%A5%E5%BE%B7%E5%BC%8F%E5%BB%BA%E7%AF%89%EF%BC%88Architecture%20gothique%EF%BC%89/Nerve%20Gotique.jpg)
 
+
 ### 2.3 [[飛扶壁（Arc-boutant）\|飛扶壁（Arc-boutant）]]
 
 - 為了支撐極高的牆體，建築師在室外增加了支撐結構。
