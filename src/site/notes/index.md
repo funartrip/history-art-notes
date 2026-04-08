@@ -11,35 +11,38 @@
 
 ## 🎨 藝術 (Art)
 *關於美學、流派與藝術家故事。*
-- [[藝術史導覽\|藝術史導覽]]
-- [[名畫背後的秘密\|名畫背後的秘密]]
-- [[當代藝術評論\|當代藝術評論]]
+- [[ARCHITECTURE/哥德式建築 (Architecture gothique)/0_哥德式建築 (Architecture gothique)\|0_哥德式建築 (Architecture gothique)]]
+- 
+- 
 
 ---
 
 ## 🎭 文化 (Culture)
 *跨越國界的符號、民俗與生活方式。*
-- [[節慶與信仰\|節慶與信仰]]
-- [[飲食文化探源\|飲食文化探源]]
-- [[博物館散策\|博物館散策]]
+
 
 ---
 
 ## 📜 歷史 (History)
 *從時間的長河中，打撈被遺忘的細節。*
-- [[重要歷史轉折點\|重要歷史轉折點]]
-- [[影響世界的偉人\|影響世界的偉人]]
-- [[文明的興起與衰落\|文明的興起與衰落]]
+
 
 ---
 
 ## 🏙️ 城市 (City)
 *街道是活著的歷史，建築是凝固的音樂。*
-- [[CITY/Lyon/Lyon\|Lyon]]
+- [[CITY/Lyon/里昂 (Lyon)\|里昂 (Lyon)]]
 - 
 - 
 
 ---
 
+## 🏰 建築 (Architecture)
+*從建築細節看時代的進步。*
+- [[EDIFICE/EGLISE/Lyon/La Cathédrale de Lyon 里昂主教座堂/0_里昂主教座堂 La Cathédrale de Lyon\|0_里昂主教座堂 La Cathédrale de Lyon]]
+- [[EDIFICE/HOTEL, MAISON/Lyon/加達涅宅邸 (Hôtel de Gadagne)\|加達涅宅邸 (Hôtel de Gadagne)]]
+
+
+---
 > [!TIP] 
 > 💡 **使用說明**：點擊上方的雙括號連結，即可進入對應的子分類。若連結顯示為紅色，代表該筆記尚未建立或尚未發布。
