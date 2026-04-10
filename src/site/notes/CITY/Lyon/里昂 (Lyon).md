@@ -83,7 +83,7 @@
 
 - **工業化與勞資衝突**
     - 1801年：[[雅卡爾 (Joseph Marie Jacquard)\|雅卡爾 (Joseph Marie Jacquard)]] 發明提花織機，極大提升絲綢生產力。
-    - 絲織工人的抗爭：1831年與1834年，[[紅十字山 (La Croix-Rousse)\|紅十字山 (La Croix-Rousse)]] 爆發 [[卡努起義 (Révolte des Canuts)\|卡努起義 (Révolte des Canuts)]]，是法國最早的工人階級武裝起義之一。
+    - 絲織工人的抗爭：1831年與1834年，[[CITY/Lyon/Lyon - Epoque moderne/紅十字山 (La Croix-Rousse)\|紅十字山 (La Croix-Rousse)]] 爆發 [[卡努起義 (Révolte des Canuts)\|卡努起義 (Révolte des Canuts)]]，是法國最早的工人階級武裝起義之一。
 - **城市的現代化改造 (1853-1864)**
     - 「里昂的奧斯曼」省長 [[瓦伊斯 (Claude-Marius Vaïsse)\|瓦伊斯 (Claude-Marius Vaïsse)]] 大幅改造城市，開闢 [[共和國街 (Rue de la République)\|共和國街 (Rue de la République)]] 等寬闊大道。
     - 設立 [[金頭公園 (Parc de la Tête d'Or)\|金頭公園 (Parc de la Tête d'Or)]]；1852年吞併周邊市鎮（如紅十字山、吉約蒂耶爾），確立現代行政版圖。

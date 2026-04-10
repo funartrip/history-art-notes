@@ -7,7 +7,7 @@
 
 ## 導論：祈禱之丘的時空座標與信仰積澱
 
-里昂 (Lyon)，這座坐落於索恩河與隆河交匯處的千年古城，其歷史的起點與靈魂的歸宿皆在[[CITY/Lyon/Lyon - 43 BC - Gallo-Romain/富維耶山 (Colline de Fourvière)\|富維耶山 (Colline de Fourvière)]]。這座被當地人尊稱為「祈禱之丘」（La colline qui prie）的高地，與對岸充滿勞動氣息的[[紅十字山 (La Croix-Rousse)\|紅十字山 (La Croix-Rousse)]]——「勞動之丘」遙相呼應，構成了里昂城市性格中極端對立卻又和諧共存的雙重面貌 。[[EDIFICE/EGLISE/Lyon/富維耶聖母聖殿 (Basilique Notre-Dame de Fourvière)\|富維耶聖母聖殿 (Basilique Notre-Dame de Fourvière)]] 不僅是一座 $19$ 世紀新拜占庭風格的傑作，更是這座城市與聖母瑪利亞之間長達數世紀情感連結的實體呈現 。從古羅馬時期的[[舊論壇(Forum Vetus)\|舊論壇(Forum Vetus)]] 到中世紀的微型教堂，再到普法戰爭後的雄偉聖殿，這片土地的演進過程即是里昂城市命運的縮影 。
+里昂 (Lyon)，這座坐落於索恩河與隆河交匯處的千年古城，其歷史的起點與靈魂的歸宿皆在[[CITY/Lyon/Lyon - 43 BC - Gallo-Romain/富維耶山 (Colline de Fourvière)\|富維耶山 (Colline de Fourvière)]]。這座被當地人尊稱為「祈禱之丘」（La colline qui prie）的高地，與對岸充滿勞動氣息的[[CITY/Lyon/Lyon - Epoque moderne/紅十字山 (La Croix-Rousse)\|紅十字山 (La Croix-Rousse)]]——「勞動之丘」遙相呼應，構成了里昂城市性格中極端對立卻又和諧共存的雙重面貌 。[[EDIFICE/EGLISE/Lyon/富維耶聖母聖殿 (Basilique Notre-Dame de Fourvière)\|富維耶聖母聖殿 (Basilique Notre-Dame de Fourvière)]] 不僅是一座 $19$ 世紀新拜占庭風格的傑作，更是這座城市與聖母瑪利亞之間長達數世紀情感連結的實體呈現 。從古羅馬時期的[[舊論壇(Forum Vetus)\|舊論壇(Forum Vetus)]] 到中世紀的微型教堂，再到普法戰爭後的雄偉聖殿，這片土地的演進過程即是里昂城市命運的縮影 。
 
 ## 第一章：從 Forum Vetus 到聖母崇拜的肇始
 
