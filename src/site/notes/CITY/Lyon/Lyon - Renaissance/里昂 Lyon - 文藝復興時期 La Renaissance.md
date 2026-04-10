@@ -17,7 +17,7 @@
 ### 1.2 規模擴張與「由西向東」的平移法則
 
 - **非同心圓擴張 (Déplacement d'ouest en est)**：打破中世紀典型的同心圓發展，里昂的重心軌跡呈現特殊的平移：是因為地理因素影響的城市建設
-    - _古典期_：退守 [[富維耶山 (Colline de Fourvière)\|富維耶山 (Colline de Fourvière)]]。
+    - _古典期_：退守 [[CITY/Lyon/Lyon - 43 BC - Gallo-Romain/富維耶山 (Colline de Fourvière)\|富維耶山 (Colline de Fourvière)]]。
     - _中世紀至文藝復興_：降至索恩河 (La Saône) 右岸的 [[舊城區(Vieux-Lyon)\|舊城區(Vieux-Lyon)]]（如聖讓區 Saint-Jean 與聖保羅區 Saint-Paul）。
     - _十六世紀_：跨越河流，向東側的 [[半島區 (La Presqu'île)\|半島區 (La Presqu'île)]] 擴張（以 [[聖尼濟耶教堂 (Église Saint-Nizier)\|聖尼濟耶教堂 (Église Saint-Nizier)]] 與 [[梅西耶爾街 (Rue Mercière)\|梅西耶爾街 (Rue Mercière)]] 為核心）。
     
@@ -50,18 +50,34 @@
 
 著名的 [[EDIFICE/HOTEL, MAISON/Lyon/法官之家 (Maison des Avocats)\|法官之家 (Maison des Avocats)]] 與 [[EDIFICE/HOTEL, MAISON/Lyon/夏瑪黑之家 (Maison du Chamarier)\|夏瑪黑之家 (Maison du Chamarier)]]均位於此區。這反映了該街區與司法權力、行政管理的深層掛鉤。由於該區地價最高，其建築往往在高度上突破限制，並發展出極其複雜的內部交通系統，以整合不同年代的建物地塊 。
 
-### [[聖喬治區 (Quartier St Georges)\|聖喬治區 (Quartier St Georges)]]：絲織與勞動階級的物質基礎
+從整體的空間分佈來看，[[CITY/Lyon/Lyon - Renaissance/三瑪麗街(Rue des Trois-Maries)\|三瑪麗街(Rue des Trois-Maries)]] 正好夾在索恩河畔的羅曼·羅蘭濱河路（Quai Romain-Rolland）與該區的核心主幹道聖若望街(Rue Saint-Jean)之間。這種特殊的地理位置，也讓三瑪麗街成為聖若望區內[[ARCHITECTURE/VOCABULAIRE/串廊(Traboules)\|串廊(Traboules)]]系統分佈最密集的區域之一，許多建築的內部庭院都能直接穿透地塊，連接兩側的平行街道。
 
-位於南端的[[ 聖喬治區 (Quartier St Georges) \| 聖喬治區 (Quartier St Georges) ]]在 16 世紀主要是工匠與 [[絲織工(Canuts)\|絲織工(Canuts)]] 的聚集地 。這裡的街道規劃顯得較為有機且狹窄，反映了其最初作為工業生產區的功能導向。
+### [[CITY/Lyon/Lyon - Renaissance/聖喬治區 (Quartier St Georges)\|聖喬治區 (Quartier St Georges)]]：絲織與勞動階級的物質基礎
+
+位於南端的[[CITY/Lyon/Lyon - Renaissance/聖喬治區 (Quartier St Georges)\|聖喬治區 (Quartier St Georges)]]在 16 世紀主要是工匠與 [[絲織工(Canuts)\|絲織工(Canuts)]] 的聚集地 。這裡的街道規劃顯得較為有機且狹窄，反映了其最初作為工業生產區的功能導向。
 
 與其他兩區華麗的石雕裝飾不同，聖喬治區的建築更強調功能性。建築內部多設有高大的窗戶以引入光線，滿足絲織工作的需求。雖然在 19 世紀絲織業轉移至]，但該區仍保留了最初的勞動力住宅原型，並保留了極具特色的 [[CITY/Lyon/Lyon - Renaissance/陡峭台階 (Escalier abrupt)\|陡峭台階 (Escalier abrupt)]]，連接了山坡與河岸 。
+
+> [!tip] 
+> ### 空間數據：舊里昂三大分區之特徵對比
+>
+為了更精確地理解聖喬治區的獨特性，以下將舊里昂的三個核心歷史分區進行多維度的對比分析。這種差異性正是 1998 年 UNESCO 將其列入名錄的重要依據，因為它展現了一個城市內部功能的極度分化與和諧共存 。
+
+| **特徵維度** | **聖保羅區 (St-Paul)** | **聖若望區 (St-Jean)** | **聖喬治區 (St-Georges)** |
+| -------- | ------------------ | ------------------ | --------------------- |
+| **主要功能** | 國際商業、銀行、印刷         | 宗教權力、司法中心          | 手工業、絲織生產              |
+| **建築語彙** | 華麗文藝復興、義大利式府邸      | 哥德與文藝復興過渡、司法莊嚴     | 功能主義、工坊式住宅            |
+| **街道特徵** | 較為開闊、與橋樑連接         | 圍繞主教座堂的儀式性空間       | 有機、狹窄、高低落差劇烈          |
+| **代表人群** | 義大利大商人、銀行家         | 教士、律師、司法官員         | 絲織工 (Canuts)、各類工匠     |
+| **典型地標** | 交易所廣場、猶太人街         | 聖若望大教堂、法院          | 聖喬治教堂、索恩河岸            |
+
 
 ---
 ## 3. 建築語彙與結構深度解析 (Architecture & Structure)
 
 ### 3.1 核心特色：串廊與城市微血管
 
-- **[[ARCHITECTURE/VOCABULAIRE/串廊 (Traboules)\|串廊 (Traboules)]]**：
+- **[[ARCHITECTURE/VOCABULAIRE/串廊(Traboules)\|串廊(Traboules)]]**：
     - _詞源與定義_：源自拉丁文 _trans ambulare_（穿過），是穿越庭院連結兩條街道的帶頂通道。
     - _功能性_：商業與生存的剛性需求。不僅提供密集的城市捷徑，更保護了珍貴的 [[絲綢 (Soie)\|絲綢 (Soie)]] 在搬運過程中免受雨水侵襲。
 - **[[石製窗櫺 (Meneau)\|石製窗櫺 (Meneau)]]**：
@@ -79,7 +95,7 @@
 - **里昂 vs. [[義大利文藝復興建築 (Architecture de la Renaissance italienne)\|義大利文藝復興建築 (Architecture de la Renaissance italienne)]]**：
     - 有別於佛羅倫斯 (Florence) 或錫耶納 (Sienne) 喜歡在街道上炫耀宏偉的宮殿（Palazzo）立面，里昂的大家族拒絕張揚（如拒絕了義大利建築師 Serlio 的設計）。
     - 財富與權力被隱藏在內部：庭院內充滿了義大利風格的阿拉伯式花紋 (Arabesques)、怪誕浮雕 (Grotesques) 與獎章雕飾 (Médaillons)。
-- **空間轉折的里程碑**：1536 年，建築師 [[PERSONNE/菲利貝爾·德洛姆(Philibert Delorme)\|菲利貝爾·德洛姆(Philibert Delorme)]] 在 [[比略德宅邸 (Hôtel Bullioud)\|比略德宅邸 (Hôtel Bullioud)]] 內庭建造的 [[喇叭拱廊 (Galerie sur trompes)\|喇叭拱廊 (Galerie sur trompes)]]，標誌著法國向純粹古典文藝復興語彙的過渡。
+- **空間轉折的里程碑**：1536 年，建築師 [[PERSONNE/菲利貝爾·德洛姆(Philibert Delorme)\|菲利貝爾·德洛姆(Philibert Delorme)]] 在 [[EDIFICE/HOTEL, MAISON/Lyon/布利尤住宅 (Hôtel Bullioud)\|布利尤住宅 (Hôtel Bullioud)]] 內庭建造的 [[喇叭拱廊 (Galerie sur trompes)\|喇叭拱廊 (Galerie sur trompes)]]，標誌著法國向純粹古典文藝復興語彙的過渡。
 
 ---
 
@@ -126,4 +142,4 @@
 
 ---
 
-## 6. 里昂舊城區(Vieux-Lyon)：現代與當代 遺產保存(Conservation du patrimoine)史
+## 6. [[CITY/Lyon/Lyon - Renaissance/里昂舊城區(Vieux-Lyon)：現代與當代 遺產保存(Conservation du patrimoine)史\|里昂舊城區(Vieux-Lyon)：現代與當代 遺產保存(Conservation du patrimoine)史]]

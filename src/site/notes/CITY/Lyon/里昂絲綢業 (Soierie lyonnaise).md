@@ -32,7 +32,7 @@ tags: #里昂絲綢業#Soierie lyonnaise  #LyonHistory #AncientHistory
 現代的里昂市仍四處可見絲綢業留下的深刻歷史印記與文化遺產：
 
 - **紅十字山區的建築與串廊：** 
-	- 被稱為「工作之山」的 [[紅十字山 (La Croix-Rousse)\|紅十字山 (La Croix-Rousse)]] 是19世紀絲織工人聚居的核心地帶。為了容納高達四公尺的提花織機，這裡的公寓（被稱為 [[卡努建築 (Architecture des Canuts)\|卡努建築 (Architecture des Canuts)]]）擁有極高的天花板與巨大的窗戶以利採光。區域內密布著被稱為 [[ARCHITECTURE/VOCABULAIRE/串廊 (Traboules)\|串廊 (Traboules)]] 的隱秘通道，最初是為了讓工人在雨天能安全、乾燥地運送昂貴的絲綢布匹。
+	- 被稱為「工作之山」的 [[紅十字山 (La Croix-Rousse)\|紅十字山 (La Croix-Rousse)]] 是19世紀絲織工人聚居的核心地帶。為了容納高達四公尺的提花織機，這裡的公寓（被稱為 [[卡努建築 (Architecture des Canuts)\|卡努建築 (Architecture des Canuts)]]）擁有極高的天花板與巨大的窗戶以利採光。區域內密布著被稱為 [[ARCHITECTURE/VOCABULAIRE/串廊(Traboules)\|串廊(Traboules)]] 的隱秘通道，最初是為了讓工人在雨天能安全、乾燥地運送昂貴的絲綢布匹。
 - **歷史博物館與活態作坊：** 
 	- 位於半島區的 [[里昂紡織博物館 (Musée des Tissus)\|里昂紡織博物館 (Musée des Tissus)]] 擁有全球首屈一指的收藏，展示了四千多年的紡織史與里昂絲綢珍品。在紅十字山，遊客可以參觀 [[卡努之家 (Maison des Canuts)\|卡努之家 (Maison des Canuts)]] 以及致力於保存傳統織造技術的活態作坊 [[活著的絲綢 (Soierie Vivante)\|活著的絲綢 (Soierie Vivante)]]（位於 Rue Richan），在那裡依然能看到古老的提花織機運作。
 - **現代傳承：** 

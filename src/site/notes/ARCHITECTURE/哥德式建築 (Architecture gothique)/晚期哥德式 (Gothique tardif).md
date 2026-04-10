@@ -23,7 +23,7 @@
     - **帶有稜柱基座的豎櫺窗（fenêtres à meneaux sur bases prismatiques）**：這是里昂晚期哥德式民居最典型的窗戶特徵。
     - **螺旋形樓梯（escaliers en vis）**：通常隱藏在內庭院的多邊形或圓形塔樓中。
     - **外部拱廊與交叉肋骨拱頂（galeries extérieures voûtées d'ogives）**：庭院周圍建有帶有哥德式拱頂的長廊。
-3. **內斂的立面與奢華的內庭**：里昂的晚期哥德式世俗建築通常不在臨街立面上過度炫耀，而是將華麗的雕刻、拱廊與塔樓隱藏在建築內部的庭院中，這也促成了里昂特有的 **[[ARCHITECTURE/VOCABULAIRE/串廊 (Traboules)\|串廊 (Traboules)]]** 建築格局。
+3. **內斂的立面與奢華的內庭**：里昂的晚期哥德式世俗建築通常不在臨街立面上過度炫耀，而是將華麗的雕刻、拱廊與塔樓隱藏在建築內部的庭院中，這也促成了里昂特有的 **[[ARCHITECTURE/VOCABULAIRE/串廊(Traboules)\|串廊(Traboules)]]** 建築格局。
 
 ### 四、 關鍵建築師與代表性建築介紹
 

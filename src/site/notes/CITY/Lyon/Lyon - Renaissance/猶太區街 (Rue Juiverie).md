@@ -43,7 +43,7 @@
 
 里昂作為當時歐洲四大 [[金融展銷會 (Foires de Lyon)\|金融展銷會 (Foires de Lyon)]] 之一的所在地，其舊城區面臨極端的地價壓力與人口密度。
 
-- **空間效能與投資報酬：** 在猶太區街，土地不僅昂貴，且受到後方 [[富維耶山 (Colline de Fourvière)\|富維耶山 (Colline de Fourvière)]] 坡地的限制，建築物無法向外擴張。
+- **空間效能與投資報酬：** 在猶太區街，土地不僅昂貴，且受到後方 [[CITY/Lyon/Lyon - 43 BC - Gallo-Romain/富維耶山 (Colline de Fourvière)\|富維耶山 (Colline de Fourvière)]] 坡地的限制，建築物無法向外擴張。
     
 - **石切術的經濟學：** 德洛姆在布利尤住宅設計的 [[喇叭形拱頂 (Trompes)\|喇叭形拱頂 (Trompes)]] 具有深刻的經濟意義。它允許業主在「不增加地面建築面積」（即不佔用珍貴的庭院空間與水井）的前提下，創造出懸浮的 [[連結空間 (Espace de liaison)\|連結空間 (Espace de liaison)]]。這是在「歐洲銀行」的高密度地價環境下，建築師利用 [[幾何學 (Géométrie)\|幾何學 (Géométrie)]] 為資本家創造的空間紅利。
     

@@ -15,7 +15,7 @@ tags: #Architecture #Traboules #VieuxLyon #SaintGeorges #Escalier
 ```
 
 
-在里昂的 [[聖喬治區 (Quartier St Georges)\|聖喬治區 (Quartier St Georges)]]，許多連接山坡上下街道的 [[ARCHITECTURE/VOCABULAIRE/串廊 (Traboules)\|串廊 (Traboules)]] 內部，隱藏著極度陡峭、狹窄的台階（Escaliers très raides）。這些台階不僅是克服地形高低差的工程學產物，有時更反映了當時社會階級的空間劃分。
+在里昂的 [[CITY/Lyon/Lyon - Renaissance/聖喬治區 (Quartier St Georges)\|聖喬治區 (Quartier St Georges)]]，許多連接山坡上下街道的 [[ARCHITECTURE/VOCABULAIRE/串廊(Traboules)\|串廊(Traboules)]] 內部，隱藏著極度陡峭、狹窄的台階（Escaliers très raides）。這些台階不僅是克服地形高低差的工程學產物，有時更反映了當時社會階級的空間劃分。
 
 以下為您詳細解析幾處最具代表性的「陡峭台階」案例：
 

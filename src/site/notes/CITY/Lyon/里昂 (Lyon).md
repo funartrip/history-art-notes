@@ -13,7 +13,7 @@
 羅馬將軍奉命建城後，里昂憑藉其優越的地理位置迅速發展為「三大高盧」的政治、經濟與宗教首都，是這座城市歷史上的第一個黃金時代。
 
 - **建城與擴張**
-    - 西元前43年：[[普蘭庫斯(Lucius Munatius Plancus)\|普蘭庫斯(Lucius Munatius Plancus)]] 於 [[富維耶山 (Colline de Fourvière)\|富維耶山 (Colline de Fourvière)]] 建立羅馬殖民地 [[CITY/Lyon/Lyon - 43 BC - Gallo-Romain/盧格杜努姆 (Lugdunum)\|盧格杜努姆 (Lugdunum)]]。
+    - 西元前43年：[[普蘭庫斯(Lucius Munatius Plancus)\|普蘭庫斯(Lucius Munatius Plancus)]] 於 [[CITY/Lyon/Lyon - 43 BC - Gallo-Romain/富維耶山 (Colline de Fourvière)\|富維耶山 (Colline de Fourvière)]] 建立羅馬殖民地 [[CITY/Lyon/Lyon - 43 BC - Gallo-Romain/盧格杜努姆 (Lugdunum)\|盧格杜努姆 (Lugdunum)]]。
     - 西元前20年：[[阿格里帕 (Agrippa)\|阿格里帕 (Agrippa)]]將里昂規劃為[[CITY/Lyon/Lyon - 43 BC - Gallo-Romain/高盧 (Gaule)\|高盧 (Gaule)]] [[羅馬道路網 (Réseau routier gallo-romain)\|羅馬道路網 (Réseau routier gallo-romain)]] 的起點。
 - **帝國政治與宗教樞紐**
     - 西元前12年：建立 [[三大高盧聯邦聖壇 (Sanctuaire fédéral des Trois Gaules)\|三大高盧聯邦聖壇 (Sanctuaire fédéral des Trois Gaules)]]，位於 [[康達特 (Condate，今紅十字山底)\|康達特 (Condate，今紅十字山底)]]。
@@ -58,7 +58,7 @@
     - 1529年：因糧食短缺與物價高漲，爆發了被稱為 [[大叛亂 (La Grande Rebeyne)\|大叛亂 (La Grande Rebeyne)]] 的社會暴動。
     - 1562年：[[法國宗教戰爭 (Guerres de religion)\|法國宗教戰爭 (Guerres de religion)]] 期間，新教徒短暫佔領里昂並破壞宗教建築。
 
-> [!info] 建築特色：[[ARCHITECTURE/VOCABULAIRE/串廊 (Traboules)\|串廊 (Traboules)]] 老里昂區特有的隱秘通道，穿梭於建築物內部與庭院之間。最初為方便絲綢工人在雨天搬運貨物至河畔，後成為抵抗運動成員躲避追捕的迷宮。
+> [!info] 建築特色：[[ARCHITECTURE/VOCABULAIRE/串廊(Traboules)\|串廊(Traboules)]] 老里昂區特有的隱秘通道，穿梭於建築物內部與庭院之間。最初為方便絲綢工人在雨天搬運貨物至河畔，後成為抵抗運動成員躲避追捕的迷宮。
 
 > [!tip] [[CITY/Lyon/Lyon - Renaissance/里昂舊城區(Vieux-Lyon)：現代與當代 遺產保存(Conservation du patrimoine)史\|里昂舊城區(Vieux-Lyon)：現代與當代 遺產保存(Conservation du patrimoine)史]]
 

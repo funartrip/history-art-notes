@@ -34,7 +34,7 @@ tags: #Architecture #Gothic #Romanesque #LyonCathedral
 
 ### 1. 早期地基與考古發現
 
-在基督教初期，里昂的宗教中心原本位於索恩河左岸（今聖尼濟耶教堂原址）。後來轉移至 [[富維耶山 (Colline de Fourvière)\|富維耶山 (Colline de Fourvière)]] 山腳下的右岸。 在目前的里昂大教堂位置，中世紀時曾存在著一個被稱為 [[大迴廊 (Grand cloître)\|大迴廊 (Grand cloître)]] 的宗教建築群，內部包含了三座教堂：作為主教座堂的 [[聖斯德望教堂 (Saint-Étienne)\|聖斯德望教堂 (Saint-Étienne)]]（由 [[聖阿爾潘 (Saint Alpin)\|聖阿爾潘 (Saint Alpin)]] 於4世紀末建立）、作為堂區教堂的 [[聖十字教堂 (Sainte-Croix)\|聖十字教堂 (Sainte-Croix)]]，以及作為洗禮堂的 [[聖約翰-洗者 (Saint-Jean-Baptiste)\|聖約翰-洗者 (Saint-Jean-Baptiste)]]。 **位置關係：** 1889年的考古挖掘在今日大教堂 [[大祭壇 (Maître-autel)\|大祭壇 (Maître-autel)]] 後方的第一柱間下方，發現了原始教堂的半圓形後殿地基，這證明了早期的教堂比現在的規模小得多，其東側末端比現在的後殿退後了15公尺以上。
+在基督教初期，里昂的宗教中心原本位於索恩河左岸（今聖尼濟耶教堂原址）。後來轉移至 [[CITY/Lyon/Lyon - 43 BC - Gallo-Romain/富維耶山 (Colline de Fourvière)\|富維耶山 (Colline de Fourvière)]] 山腳下的右岸。 在目前的里昂大教堂位置，中世紀時曾存在著一個被稱為 [[大迴廊 (Grand cloître)\|大迴廊 (Grand cloître)]] 的宗教建築群，內部包含了三座教堂：作為主教座堂的 [[聖斯德望教堂 (Saint-Étienne)\|聖斯德望教堂 (Saint-Étienne)]]（由 [[聖阿爾潘 (Saint Alpin)\|聖阿爾潘 (Saint Alpin)]] 於4世紀末建立）、作為堂區教堂的 [[聖十字教堂 (Sainte-Croix)\|聖十字教堂 (Sainte-Croix)]]，以及作為洗禮堂的 [[聖約翰-洗者 (Saint-Jean-Baptiste)\|聖約翰-洗者 (Saint-Jean-Baptiste)]]。 **位置關係：** 1889年的考古挖掘在今日大教堂 [[大祭壇 (Maître-autel)\|大祭壇 (Maître-autel)]] 後方的第一柱間下方，發現了原始教堂的半圓形後殿地基，這證明了早期的教堂比現在的規模小得多，其東側末端比現在的後殿退後了15公尺以上。
 
 ### 2. 中世紀擴建的關鍵推動者與部位
 
