@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/CITY/Lyon/Lyon - Renaissance/猶太區街 (Rue Juiverie)/","dg-note-properties":{"title":null}}
+{"dg-publish":true,"permalink":"/CITY/Lyon/Lyon - Renaissance/猶太區街 (Rue Juiverie)/","title":"猶太區街 (Rue Juiverie)","dg-note-properties":{"title":"猶太區街 (Rue Juiverie)"}}
 ---
 
 
