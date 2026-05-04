@@ -10,7 +10,7 @@
 
 - **年代**：12 世紀（1129年）至 21 世紀。
     
-- **地點**：[[法國(France)\|法國(France)]]、[[里昂(Lyon)\|里昂(Lyon)]]、[[半島區(Presqu'île)\|半島區(Presqu'île)]]、羅訥河 (Rhône)畔。
+- **地點**：[[法國(France)\|法國(France)]]、[[CITY/Lyon/里昂(Lyon)\|里昂(Lyon)]]、[[半島區(Presqu'île)\|半島區(Presqu'île)]]、羅訥河 (Rhône)畔。
     
 - **核心人物**：**雅克-日耳曼·索夫洛 (Jacques-Germain Soufflot)**、**德萊蒙 (Jacques-Pierre Delamonce)**、**阿爾伯特·康斯坦丁 (Albert Constantin)**（現代修復建築師）。
     

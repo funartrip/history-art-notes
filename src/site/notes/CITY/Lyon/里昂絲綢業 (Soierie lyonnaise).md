@@ -7,7 +7,7 @@
 ---
 
 ## type: historical_entry 
-location: [[CITY/Lyon/里昂 (Lyon)\|里昂 (Lyon)]] 
+location: [[CITY/Lyon/里昂(Lyon)\|里昂(Lyon)]] 
 tags: #里昂絲綢業#Soierie lyonnaise  #LyonHistory #AncientHistory
 
 # 里昂絲綢業 (Soierie lyonnaise)
@@ -17,7 +17,7 @@ tags: #里昂絲綢業#Soierie lyonnaise  #LyonHistory #AncientHistory
 
 - **年代（Époque）：** 16 世紀初（起源）至 19 世紀末（巔峰與轉型）。
     
-- **地點（Localisation）：** [[里昂(Lyon)\|里昂(Lyon)]]，重點在於] 的第一區（坡地）與第四區（平原）。
+- **地點（Localisation）：** [[CITY/Lyon/里昂(Lyon)\|里昂(Lyon)]]，重點在於] 的第一區（坡地）與第四區（平原）。
     
 - **核心人物（Personnalités clés）：**
     

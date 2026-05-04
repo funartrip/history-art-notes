@@ -7,7 +7,7 @@
 
 ## 序言：舊城門戶與資本原始積累的空間體現
 
-在[[CITY/Lyon/里昂 (Lyon)\|里昂 (Lyon)]] 的城市發展史上，[[CITY/Lyon/Lyon - Renaissance/聖保羅區 (Quartier St Paul)\|聖保羅區 (Quartier St Paul)]] 不僅是[[舊城區(Vieux-Lyon)\|舊城區(Vieux-Lyon)]] 的北端門戶，更是歐洲從中世紀[[封建制度\|封建制度]]向早期[[資本主義\|資本主義]]轉型的空間見證。作為歷史上里昂最富庶的區域，聖保羅區的地景演變深刻地反映了[[大資產階級 (Grand Bourgeoisie)\|大資產階級 (Grand Bourgeoisie)]] 與跨國金融資本之間的權力博弈。這裡的每一塊石材、每一座塔樓與每一處迴廊，都標誌著財富從傳統的土地與教會手中，轉移到新興的銀行家與大宗貿易商手中 。
+在[[CITY/Lyon/里昂(Lyon)\|里昂(Lyon)]] 的城市發展史上，[[CITY/Lyon/Lyon - Renaissance/聖保羅區 (Quartier St Paul)\|聖保羅區 (Quartier St Paul)]] 不僅是[[舊城區(Vieux-Lyon)\|舊城區(Vieux-Lyon)]] 的北端門戶，更是歐洲從中世紀[[封建制度\|封建制度]]向早期[[資本主義\|資本主義]]轉型的空間見證。作為歷史上里昂最富庶的區域，聖保羅區的地景演變深刻地反映了[[大資產階級 (Grand Bourgeoisie)\|大資產階級 (Grand Bourgeoisie)]] 與跨國金融資本之間的權力博弈。這裡的每一塊石材、每一座塔樓與每一處迴廊，都標誌著財富從傳統的土地與教會手中，轉移到新興的銀行家與大宗貿易商手中 。
 
 從 14 世紀末到 16 世紀的「黃金時代」，聖保羅區經歷了從族裔邊緣化的[[猶太社群 (Communauté juive)\|猶太社群 (Communauté juive)]] 聚集地，到歐洲頂尖[[金融中心 (Centre financier)\|金融中心 (Centre financier)]] 的華麗轉身。這一過程並非偶然，而是由法國王室的財稅需求、義大利城邦的金融外溢以及地理上的樞紐地位共同促成的。[[義大利化 (Italianisation)\|義大利化 (Italianisation)]] 的建築浪潮，正是這股金融洪流在物質世界留下的不朽印記 。
 

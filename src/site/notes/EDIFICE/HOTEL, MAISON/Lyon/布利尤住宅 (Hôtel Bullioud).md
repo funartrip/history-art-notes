@@ -21,7 +21,7 @@
 
 ### 1. 金融中心的居住需求與隱私權革命
 
-在 16 世紀，[[CITY/Lyon/里昂 (Lyon)\|里昂 (Lyon)]] 在 [[法蘭索瓦一世 (François Ier)\|法蘭索瓦一世 (François Ier)]] 的推動下成為歐洲領先的 [[金融中心 (Centre financier)\|金融中心 (Centre financier)]]。當時的 [[CITY/Lyon/Lyon - Renaissance/聖若望區 (Quartier St Jean)\|聖若望區 (Quartier St Jean)]] 與 [[CITY/Lyon/Lyon - Renaissance/猶太區街 (Rue Juiverie)\|猶太區街 (Rue Juiverie)]] 是銀行家與高階官員的聚集地，商業繁榮導致地價高昂且城市密度極大。
+在 16 世紀，[[CITY/Lyon/里昂(Lyon)\|里昂(Lyon)]] 在 [[法蘭索瓦一世 (François Ier)\|法蘭索瓦一世 (François Ier)]] 的推動下成為歐洲領先的 [[金融中心 (Centre financier)\|金融中心 (Centre financier)]]。當時的 [[CITY/Lyon/Lyon - Renaissance/聖若望區 (Quartier St Jean)\|聖若望區 (Quartier St Jean)]] 與 [[CITY/Lyon/Lyon - Renaissance/猶太區街 (Rue Juiverie)\|猶太區街 (Rue Juiverie)]] 是銀行家與高階官員的聚集地，商業繁榮導致地價高昂且城市密度極大。
 
 - **空間效能的極致追求：** 委託人 [[PERSONNE/安托萬·布利尤 (Antoine Bullioud)\|安托萬·布利尤 (Antoine Bullioud)]] 作為 [[王室財務官 (Général des finances)\|王室財務官 (Général des finances)]]，對官邸的要求反映了新興資產階級對空間的高效管理。他要求在不佔用庭院地面空間、且保留原有 [[古井 (Puits)\|古井 (Puits)]] 的前提下連接三棟獨立建築。德洛姆設計的 [[喇叭形拱頂 (Trompes)\|喇叭形拱頂 (Trompes)]] 正是因應這種高密度城市壓力而生的工程傑作。
     

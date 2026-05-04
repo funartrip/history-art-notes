@@ -7,7 +7,7 @@
 
 ## type: historical_entry 
 ## period: Gallo-Roman 
-## location: [[CITY/Lyon/里昂 (Lyon)\|里昂 (Lyon)]] 
+## location: [[CITY/Lyon/里昂(Lyon)\|里昂(Lyon)]] 
 
 #tags: #GalloRomano #LyonHistory #AncientHistory
 
@@ -15,14 +15,14 @@
 
 ## 簡介
 
-盧格杜努姆 (Lugdunum) 是羅馬帝國時期高盧地區的核心重鎮，也是現代法國城市 [[CITY/Lyon/里昂 (Lyon)\|里昂 (Lyon)]] 的前身。自西元前43年建城以來，它憑藉優越的地理位置迅速崛起，成為「三大高盧」的首府與政治、經濟、宗教中心。在羅馬治下，這座城市經歷了長達數個世紀的黃金時代，深刻奠定了里昂兩千多年歷史的輝煌基石。
+盧格杜努姆 (Lugdunum) 是羅馬帝國時期高盧地區的核心重鎮，也是現代法國城市 [[CITY/Lyon/里昂(Lyon)\|里昂(Lyon)]] 的前身。自西元前43年建城以來，它憑藉優越的地理位置迅速崛起，成為「三大高盧」的首府與政治、經濟、宗教中心。在羅馬治下，這座城市經歷了長達數個世紀的黃金時代，深刻奠定了里昂兩千多年歷史的輝煌基石。
 
 ## 關鍵背景與事件
 
 - **建城與命名：** 西元前43年，在凱撒遇刺後不久，羅馬將軍 [[盧基烏斯·穆納蒂烏斯·普蘭庫斯 (Lucius Munatius Plancus)\|盧基烏斯·穆納蒂烏斯·普蘭庫斯 (Lucius Munatius Plancus)]] 奉元老院之命，在 [[CITY/Lyon/Lyon - 43 BC - Gallo-Romain/富維耶山 (Colline de Fourvière)\|富維耶山 (Colline de Fourvière)]] 上建立了這座羅馬殖民地。其全名最初為 Colonia Copia Felix Munatia Lugdunum，名稱中的 "Lugdunum" 結合了凱爾特語的 "lug"（可能指高盧神祇盧格或意為「光明的」）與 "dunum"（意指「山丘」或「堡壘」）。
 
 >[!info]
->這是一個非常關鍵的歷史轉折點！[[盧基烏斯·穆納蒂烏斯·普蘭庫斯 (Lucius Munatius Plancus)\|盧基烏斯·穆納蒂烏斯·普蘭庫斯 (Lucius Munatius Plancus)]] 奉命建立 [[CITY/Lyon/Lyon - 43 BC - Gallo-Romain/盧格杜努姆 (Lugdunum)\|盧格杜努姆 (Lugdunum)]]（即今日的里昂），其背後牽涉到羅馬共和國末期劇烈的政治動盪，以及羅馬在 [[CITY/Lyon/Lyon - 43 BC - Gallo-Romain/高盧 (Gaule)\|高盧 (Gaule)]] 地區的軍事與地緣戰略考量。
+>這是一個非常關鍵的歷史轉折點！[[盧基烏斯·穆納蒂烏斯·普蘭庫斯 (Lucius Munatius Plancus)\|盧基烏斯·穆納蒂烏斯·普蘭庫斯 (Lucius Munatius Plancus)]] 奉命建立 [[CITY/Lyon/Lyon - 43 BC - Gallo-Romain/盧格杜努姆 (Lugdunum)\|盧格杜努姆 (Lugdunum)]]（即今日的里昂），其背後牽涉到羅馬共和國末期劇烈的政治動盪，以及羅馬在 [[CITY/Lyon/Lyon - 43 BC - Gallo-Romain/高盧(Gaule)\|高盧(Gaule)]] 地區的軍事與地緣戰略考量。
 > ### 一、 當時的羅馬歷史背景：凱撒遇刺與共和國的動盪
 **1. 凱撒遇刺與權力真空** 西元前 44 年，羅馬獨裁官 [[朱利葉斯·凱撒 (Jules César)\|朱利葉斯·凱撒 (Jules César)]] 遭到暗殺，這起震驚羅馬的事件導致共和國陷入了嚴重的政治混亂與權力鬥爭。凱撒死後，羅馬各方勢力（如馬克·安東尼、屋大維以及擁護共和體制的元老院派）互相角力，而這種中央的動盪也迅速波及到羅馬的行省，包含剛被征服不久的高盧地區。
 >

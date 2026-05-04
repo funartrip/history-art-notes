@@ -22,7 +22,7 @@
 
 ## 1. 布利尤家族：里昂的學術與法政名門
 
-布利尤家族是 [[CITY/Lyon/里昂 (Lyon)\|里昂 (Lyon)]] 最顯赫的 [[名門望族 (Patriciat)\|名門望族 (Patriciat)]] 之一，以深厚的學術聲望與世代擔任重要的行政、司法職位著稱。
+布利尤家族是 [[CITY/Lyon/里昂(Lyon)\|里昂(Lyon)]] 最顯赫的 [[名門望族 (Patriciat)\|名門望族 (Patriciat)]] 之一，以深厚的學術聲望與世代擔任重要的行政、司法職位著稱。
 
 - **法政傳統：** 家族成員如 [[皮埃爾·布利尤 (Pierre Bullioud)\|皮埃爾·布利尤 (Pierre Bullioud)]]（1430–1498）曾任 [[里昂管轄區 (Sénéchaussée de Lyon)\|里昂管轄區 (Sénéchaussée de Lyon)]] 的 [[代理法官 (Lieutenant-général)\|代理法官 (Lieutenant-général)]]，奠定了家族在法律界的威望。
     

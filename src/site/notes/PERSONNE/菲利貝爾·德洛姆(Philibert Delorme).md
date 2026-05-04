@@ -18,7 +18,7 @@
 
 ## 第一章：里昂的石匠之子與羅馬的學術洗禮
 
-[[PERSONNE/菲利貝爾·德洛姆(Philibert Delorme)\|菲利貝爾·德洛姆(Philibert Delorme)]] 的建築生涯始於 16 世紀初的 [[CITY/Lyon/里昂 (Lyon)\|里昂 (Lyon)]]，這座城市當時是連結法國與義大利的貿易門戶與人文主義中心。他出生於一個聲名卓著的建築世家，其父 [[讓·德洛姆 (Jean de l'Orme)\|讓·德洛姆 (Jean de l'Orme)]] 是一位極具影響力的 [[大師石匠 (Maître maçon)\|大師石匠 (Maître maçon)]]，曾領導大規模的建築團隊參與里昂精英階層的豪宅建設。這種家庭背景讓年輕的德洛姆在尚未接觸義大利理論前，就已完全掌握了法蘭西傳統中關於 [[石灰岩 (Calcaire)\|石灰岩 (Calcaire)]] 物理特性與 [[結構力學 (Mécanique structurelle)\|結構力學 (Mécanique structurelle)]] 的實務知識。
+[[PERSONNE/菲利貝爾·德洛姆(Philibert Delorme)\|菲利貝爾·德洛姆(Philibert Delorme)]] 的建築生涯始於 16 世紀初的 [[CITY/Lyon/里昂(Lyon)\|里昂(Lyon)]]，這座城市當時是連結法國與義大利的貿易門戶與人文主義中心。他出生於一個聲名卓著的建築世家，其父 [[讓·德洛姆 (Jean de l'Orme)\|讓·德洛姆 (Jean de l'Orme)]] 是一位極具影響力的 [[大師石匠 (Maître maçon)\|大師石匠 (Maître maçon)]]，曾領導大規模的建築團隊參與里昂精英階層的豪宅建設。這種家庭背景讓年輕的德洛姆在尚未接觸義大利理論前，就已完全掌握了法蘭西傳統中關於 [[石灰岩 (Calcaire)\|石灰岩 (Calcaire)]] 物理特性與 [[結構力學 (Mécanique structurelle)\|結構力學 (Mécanique structurelle)]] 的實務知識。
 
 ### 羅馬時期的考古學實踐（1533–1536）
 

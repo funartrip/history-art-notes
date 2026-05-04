@@ -8,7 +8,7 @@
 
 - **年代**：西元 542 年（古代晚期/墨洛溫王朝末期）至 21 世紀現代化轉型。
     
-- **地點**：[[法國(France)\|法國(France)]]、[[里昂(Lyon)\|里昂(Lyon)]]、[[羅訥河(Rhône)\|羅訥河(Rhône)]]東岸、[[索恩河(Saône)\|索恩河(Saône)]]、[[半島區(Presqu'île)\|半島區(Presqu'île)]]及帕迪尤(La Part-Dieu)區。
+- **地點**：[[法國(France)\|法國(France)]]、[[CITY/Lyon/里昂(Lyon)\|里昂(Lyon)]]、[[羅訥河(Rhône)\|羅訥河(Rhône)]]東岸、[[索恩河(Saône)\|索恩河(Saône)]]、[[半島區(Presqu'île)\|半島區(Presqu'île)]]及帕迪尤(La Part-Dieu)區。
     
 - **核心人物**：[[希爾德貝爾特一世(Childebert Ier)\|希爾德貝爾特一世(Childebert Ier)]]、歐特羅高斯 (Ultrogothe)、[[雅克-日耳曼·索夫洛 (Jacques-Germain Soufflot)\|雅克-日耳曼·索夫洛 (Jacques-Germain Soufflot)]]、[[馬克·安托萬·佩蒂(Marc-Antoine Petit)\|馬克·安托萬·佩蒂(Marc-Antoine Petit)]]、[[克勞德·波托(Claude Pouteau)\|克勞德·波托(Claude Pouteau)]]、[[愛德華·赫里歐(Édouard Herriot)\|愛德華·赫里歐(Édouard Herriot)]]。
     
@@ -17,7 +17,7 @@
 
 ## 緒論：醫療作為里昂城市基因的建構者
 
-在西歐城市的演進過程中，醫院往往被視為邊緣化的孤島，然而在[[里昂(Lyon)\|里昂(Lyon)]]的案例中，醫療機構不僅是公共衛生的守護者，更是城市土地開發、經濟循環與建築革新的核心引擎。[[CITY/Lyon/里昂民事救濟院(Hospices Civils de Lyon)\|里昂民事救濟院(Hospices Civils de Lyon)]]（簡稱 [[HCL(Hospices Civils de Lyon)\|HCL(Hospices Civils de Lyon)]]）作為法國規模僅次於巴黎的第二大醫療管理機構，其歷史與這座城市的[[城市發展史(Histoire de l'urbanisme)\|城市發展史(Histoire de l'urbanisme)]]深度纏繞 。從中世紀的「靈魂救贖空間」到啟蒙時期的「紀念碑式立面」，再到 20 世紀的「醫療之城」，醫院建築的形態學轉變，精準地對應了人類對疾病認知的典範轉移：從神罰與慈悲，轉向解剖學空間，最後落腳於現代的工業化與專科化。
+在西歐城市的演進過程中，醫院往往被視為邊緣化的孤島，然而在[[CITY/Lyon/里昂(Lyon)\|里昂(Lyon)]]的案例中，醫療機構不僅是公共衛生的守護者，更是城市土地開發、經濟循環與建築革新的核心引擎。[[CITY/Lyon/里昂民事救濟院(Hospices Civils de Lyon)\|里昂民事救濟院(Hospices Civils de Lyon)]]（簡稱 [[HCL(Hospices Civils de Lyon)\|HCL(Hospices Civils de Lyon)]]）作為法國規模僅次於巴黎的第二大醫療管理機構，其歷史與這座城市的[[城市發展史(Histoire de l'urbanisme)\|城市發展史(Histoire de l'urbanisme)]]深度纏繞 。從中世紀的「靈魂救贖空間」到啟蒙時期的「紀念碑式立面」，再到 20 世紀的「醫療之城」，醫院建築的形態學轉變，精準地對應了人類對疾病認知的典範轉移：從神罰與慈悲，轉向解剖學空間，最後落腳於現代的工業化與專科化。
 
 里昂與醫療的關係，並非始於單純的福利政策，而是基於其作為「樞紐城市」的地理特徵。河流的交匯、朝聖者的途徑以及大規模的貿易流動，使得里昂在面臨流行病威脅時，必須發展出極端強大的公共救助體系。這種體系最終轉化為龐大的土地遺產，直接塑造了今日里昂[[第三區(3e arrondissement)\|第三區(3e arrondissement)]]與[[第六區(6e arrondissement)\|第六區(6e arrondissement)]]的街區風貌 。
 

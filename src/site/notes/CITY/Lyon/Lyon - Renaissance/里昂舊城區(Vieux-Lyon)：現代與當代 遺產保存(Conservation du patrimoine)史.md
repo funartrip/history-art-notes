@@ -10,7 +10,7 @@
 
 - **年代**：20 世紀中葉（1960s）至今
     
-- **地點**：[[里昂(Lyon)\|里昂(Lyon)]]、[[CITY/Lyon/Lyon - Renaissance/聖若望區 (Quartier St Jean)\|聖若望區 (Quartier St Jean)]]
+- **地點**：[[CITY/Lyon/里昂(Lyon)\|里昂(Lyon)]]、[[CITY/Lyon/Lyon - Renaissance/聖若望區 (Quartier St Jean)\|聖若望區 (Quartier St Jean)]]
     
 - **核心人物**：[[安德烈·馬爾羅(André Malraux)\|安德烈·馬爾羅(André Malraux)]]、[[路易·普拉德(Louis Pradel)\|路易·普拉德(Louis Pradel)]]
     
