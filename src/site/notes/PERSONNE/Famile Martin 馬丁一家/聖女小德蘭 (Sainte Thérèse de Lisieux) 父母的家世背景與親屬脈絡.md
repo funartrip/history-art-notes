@@ -63,7 +63,7 @@ topic: Family Background of Thérèse of Lisieux
 
 ## 關聯筆記
 
-- [[里修的嘉爾默羅修院 (Carmel de Lisieux)\|里修的嘉爾默羅修院 (Carmel de Lisieux)]]
+- [[EDIFICE/HOTEL, MAISON/Lisieux/里修的嘉爾默羅修院 (Carmel de Lisieux)\|里修的嘉爾默羅修院 (Carmel de Lisieux)]]
 - [[馬丁家族 (Famille Martin)\|馬丁家族 (Famille Martin)]]
 - [[阿朗松 (Alençon)\|阿朗松 (Alençon)]]
 - [[EDIFICE/HOTEL, MAISON/Lisieux/布松奈 (Les Buissonnets)\|布松奈 (Les Buissonnets)]]
