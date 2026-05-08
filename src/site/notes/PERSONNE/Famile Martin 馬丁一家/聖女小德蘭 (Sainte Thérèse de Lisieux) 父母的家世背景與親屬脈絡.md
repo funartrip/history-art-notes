@@ -12,7 +12,7 @@ topic: Family Background of Thérèse of Lisieux
 ---
 ```
 
-# [[聖女小德蘭 (Sainte Thérèse de Lisieux)\|聖女小德蘭 (Sainte Thérèse de Lisieux)]] 父母的家世背景與親屬脈絡
+# [[PERSONNE/聖女小德蘭 (Sainte Thérèse de Lisieux)\|聖女小德蘭 (Sainte Thérèse de Lisieux)]] 父母的家世背景與親屬脈絡
 
 摘要：這份筆記詳盡梳理了馬丁家族與蓋蘭家族的歷史背景，呈現了塑造聖女小德蘭深厚靈性與家庭基礎的家族淵源及親屬網絡。
 

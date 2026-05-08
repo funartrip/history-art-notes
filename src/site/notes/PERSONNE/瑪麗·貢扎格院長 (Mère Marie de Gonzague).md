@@ -43,7 +43,7 @@ topic: Historical Evaluation and Redemption of Mother Marie de Gonzague
 
 ### 1. 接納馬丁家族的四個女兒
 
-儘管當時教區的最高上司 [[德拉特羅埃特神父 (Chanoine Delatroëtte)\|德拉特羅埃特神父 (Chanoine Delatroëtte)]] 強烈反對，但正是瑪麗·貢扎格院長力排眾議，讓 15 歲的 [[聖女小德蘭 (Sainte Thérèse de Lisieux)\|聖女小德蘭 (Sainte Thérèse de Lisieux)]] 破例進入修院。若沒有她的堅持，小德蘭根本無法進入 [[EDIFICE/HOTEL, MAISON/Lisieux/里修的嘉爾默羅修院 (Carmel de Lisieux)\|里修的嘉爾默羅修院 (Carmel de Lisieux)]]。
+儘管當時教區的最高上司 [[德拉特羅埃特神父 (Chanoine Delatroëtte)\|德拉特羅埃特神父 (Chanoine Delatroëtte)]] 強烈反對，但正是瑪麗·貢扎格院長力排眾議，讓 15 歲的 [[PERSONNE/聖女小德蘭 (Sainte Thérèse de Lisieux)\|聖女小德蘭 (Sainte Thérèse de Lisieux)]] 破例進入修院。若沒有她的堅持，小德蘭根本無法進入 [[EDIFICE/HOTEL, MAISON/Lisieux/里修的嘉爾默羅修院 (Carmel de Lisieux)\|里修的嘉爾默羅修院 (Carmel de Lisieux)]]。
 
 ### 2. 促成自傳的完成與出版
 
